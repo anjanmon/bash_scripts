@@ -1,0 +1,1 @@
+@reboot  ~/Software/bash_scripts/startup.sh
